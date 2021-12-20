@@ -1,0 +1,20 @@
+body {
+    background-image:url("https://images.unsplash.com/photo-1557682224-5b8590cd9ec5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGdyYWRpZW50fGVufDB8fDB8fA%3D%3D&w=1000&q=80") ;
+    color: blue;
+}
+#di1,#di2 {
+    float:none;
+    border-radius: 25px;
+    background-color:yellow;
+    padding: 20px;
+    margin-top:30px;
+}
+#button1 {
+    margin-top:30px;
+    border-radius: 25px;
+    background-color: rgb(255, 247, 0);
+    color:rgb(0, 0, 0);
+    width: 100px;
+    height: 50px;
+    font-size:30px;
+}
